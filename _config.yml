@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "Tanya Paul / UC Berkeley"
+title                    : "Tanya Paul "
 title_separator          : "-"
 name                     : &name "Tanya Paul"
 description              : &description "Tanya Paul — Assistant Professor of Accounting at UC Berkeley Haas. Research on financial reporting, standard-setting, and financial institutions."   # Update this with a general description of your site, this is the default if not overridden by a page
