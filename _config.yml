@@ -23,7 +23,7 @@ repository               : "tanya-paul/tanya-paul.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "Headshot.png"
   name             : "Tanya Paul"
   pronouns         : # example: "she/her"  
   bio              : "Assistant Professor of Accounting<br>UC Berkeley Haas School of Business"
