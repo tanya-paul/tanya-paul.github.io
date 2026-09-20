@@ -6,9 +6,7 @@ redirect_from:
   - /resume
 ---
 
-*This Version: September 2026*
 
-[Download PDF](/files/TanyaPaul_CV.pdf)
 
 ## Academic Appointments
 
@@ -29,39 +27,22 @@ redirect_from:
   *Concentration: Statistics, Finance; Minors: Mathematics*  
   *Summa Cum Laude*
 
-## Research Interests
 
-Financial Reporting, Credit Unions, Banking, Standard-Setting, and Disclosure
 
 ## Upcoming Talks
-
-**2027**
-- Columbia University
-- The Ohio State University
 
 **2026**
 - Community Banking Research Conference
 - Review of Accounting Studies Conference
-
-## Teaching Experience
-
-- **Corporate Financial Reporting**, Instructor (2022 – 2024)  
-  UC Berkeley Haas School of Business
-
-- **Accounting and Financial Reporting**, Instructor (Summer 2018)  
-  The Wharton School  
-  Instructor Rating: 3.44/4.0 (Average in prior years: 2.6/4.0)
-
-- **Accounting and Financial Reporting**, Teaching Assistant (Fall 2018)  
-  The Wharton School — For Professors Luzi Hail, Allison Nicoletti, and Christina Zhu
-
-- **Accounting and Financial Reporting**, Online Teaching Assistant (Summer 2020)  
-  The Wharton School — For Instructor Kevin Chen
+  
+**2027**
+- HARC
+- Columbia University
+- The Ohio State University
 
 ## Academic Services
 
 - **Ad hoc Reviewer**: Financial Accounting & Reporting Section (FARS), American Accounting Association (AAA), Wharton-INSEAD Doctoral Conference, Review of Accounting Studies (RAST), Hawaii Accounting Research Conference (HARC), Journal of Accounting and Economics (JAE), Journal of Accounting Research (JAR)
-- **Editorial Board Member**: Accounting Open
 - **PhD Student Dissertation Committee**: Ziqing Tian (placement: Fordham University)
 - **Recruiting Committee**: Doctoral students
 
@@ -70,17 +51,3 @@ Financial Reporting, Credit Unions, Banking, Standard-Setting, and Disclosure
 - FARS Outstanding Discussant Award, Midyear Meeting (2026)
 - FARS Outstanding Discussant Award, Midyear Meeting (2022)
 - Deloitte Foundation Award (2019)
-
-## Research and Professional Employment
-
-- **Dodge & Cox**, Equity Research Analyst Intern (Summer 2014)
-- **The Wharton School, Accounting Department**, Research Assistant (2013 – 2014)  
-  For Professors Jeremy Michels and Stephanie Sikes
-- **The Wharton School, Management Department**, Research Assistant (Spring 2011)  
-  For Professors David Hsu and Andy Wu
-
-## Skills
-
-**Technical**: Python, Stata, SAS, LaTeX, Regular Expressions, Text Scraping  
-**Citizenship**: United States  
-**Interests**: Reading, Muay Thai
