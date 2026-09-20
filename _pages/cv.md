@@ -33,6 +33,16 @@ redirect_from:
 
 Financial Reporting, Credit Unions, Banking, Standard-Setting, and Disclosure
 
+## Upcoming Talks
+
+**2027**
+- Columbia University
+- The Ohio State University
+
+**2026**
+- Community Banking Research Conference
+- Review of Accounting Studies Conference
+
 ## Teaching Experience
 
 - **Corporate Financial Reporting**, Instructor (2022 – 2024)  
