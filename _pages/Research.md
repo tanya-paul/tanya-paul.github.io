@@ -9,15 +9,14 @@ author_profile: true
 **The Costs of Decreased Financial Statement Comparability: Evidence from Divergent Leasing Standards**  
 with Jeremy Michels and Rachel Zhang  
 *Accepted for the 2026 Review of Accounting Studies Conference*
-
-*Exploiting a sudden decrease in EBITDA comparability brought on by contemporaneous rule changes to leasing under IFRS and US GAAP, we document that reduced comparability across regimes increases information processing costs for analysts.*
-
----
+**
+*Contemporaneous changes to the accounting for leases under IFRS and US GAAP resulted in less comparable income statement presentation of lease-related expenses across the two reporting regimes. In this study, we examine how this decrease in comparability is associated with information processing costs for financial statement users. We examine the forecasting behavior of analysts who follow firms that report under both IFRS and US GAAP and thus are most affected by the reduced comparability across the standards. We find that these analysts, relative to those who follow firms reporting under a single lease accounting standard, are less likely to forecast EBITDA and exhibit longer EBITDA-specific forecast delays. We also differentiate between time-series and cross-sectional comparability and find that our results appear driven by reduced cross-sectional comparability. Overall, our evidence suggests that the decrease in income statement comparability resulting from the new leasing standards significantly increases information processing costs, even among relatively sophisticated market participants. 
+---**
 
 **When Credit Unions Acquire Community Banks**  
 with Laurel Mazur
 
-*I examine how the rising trend of credit union acquisitions of community banks affects mortgage lending in low- and moderate-income communities.*
+*The acquisition of community banks by credit unions has garnered significant attention in recent years. One reason for this is the fact that, once the acquisition is completed, the combined entity is no longer subject to Community Reinvestment Act (CRA) oversight, the only federal regulation requiring banks to serve low-and-moderate-income (LMI) areas and borrowers. Using loan-level HMDA data covering acquisitions completed from 2016 to 2024, we find a decline in the likelihood of mortgage approval. We further find that this decline is more pronounced for low-income borrowers, rather than specifically in CRA-designated LMI areas. This pattern is consistent with a reduction in the supply of credit that disproportionately affects income-constrained borrowers, possibly arising from changes in underwriting or a loss of relationship-lending capacity. Overall, the study finds some evidence that these acquisitions serve to curtail the supply of credit to LMI borrowers, suggesting a potential role for CRA oversight.*
 
 ---
 
