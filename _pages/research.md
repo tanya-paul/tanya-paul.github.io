@@ -60,12 +60,3 @@ with Cassie Mongold
 with Rui Shi and Detian Yang
 
 *Exploiting a setting where banks faced a sudden increase in local deposit competition from credit unions, we find that expanding depositor choice sets strengthens depositor discipline, making bank funding flows significantly more sensitive to both financial performance and service quality.*
-
----
-
-## Work in Progress
-
-**Competition and Bank Risk-Taking**  
-Solo-authored
-
-*Exploiting a setting where community banks faced a sudden increase in competition from credit unions, I find that banks respond by taking more risk while engaging in earnings management to mask deteriorating performance.*
