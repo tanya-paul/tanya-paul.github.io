@@ -12,7 +12,7 @@ redirect_from:
 
 - **UC Berkeley, Haas School of Business** (2022 – Present)  
   Assistant Professor of Accounting  
-  *Maternity leave: 2025*
+  *Maternity leave: 2025, 2026*
 
 - **Financial Accounting Standards Board** (2021 – 2022)  
   Post-Doctoral Fellow
